@@ -13,9 +13,10 @@ Files include:
 -YOLO8 text model included from Roboflow
 -Photo folder for dataset used to train model
 
-Week Three branch was to explore using ROS node. Included are a .py and .cpp file basic nodes created using colcon.
+Week Three branch was to explore using ROS node. Included are a .py and .cpp file basic nodes created using colcon. Both simply create a node, write "Hello World" concetanated with a counter, spin this and then can be shutdown by standard Ctrl + Shift + C
 -Files include:
 -.py and .cpp files
 -Accompaning ament files: CMakeList and Setup.py
 -Accompanying Packages xml files
+
 

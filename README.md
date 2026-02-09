@@ -12,3 +12,9 @@ Week Two branch task was to use Roboflow to discover Machine Learning algorythms
 Files include:
 -YOLO8 text model included from Roboflow
 -Photo folder for dataset used to train model
+
+Week Three branch was to explore using ROS node. Included are a .py and .cpp file basic nodes created using colcon.
+-Files include:
+-.py and .cpp files
+-Accompaning ament files: CMakeList and Setup.py
+-Accompanying Packages xml files

@@ -1,6 +1,6 @@
 ﻿# Hardware-II
 
-This is my homework for Week 1 and Week two of Hardware term II.
+This is my homework for Week 1, Week two and Week three of Hardware term II.
 
 Week One branch task was to use OpenCV to augment video webcam footage. (As I have no webcam the footage is from my mobile phone instead and altered as an MP4)
 Files include:
@@ -18,3 +18,4 @@ Week Three branch was to explore using ROS node. Included are a .py and .cpp fil
 -.py and .cpp files
 -Accompaning ament files: CMakeList and Setup.py
 -Accompanying Packages xml files
+
